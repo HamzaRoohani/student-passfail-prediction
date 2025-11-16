@@ -1,0 +1,22 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtualenvs / env files
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipybn
+
+# Data, outputs
+outputs/
+data/
+
+# Bytecode / logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
